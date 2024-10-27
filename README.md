@@ -2,6 +2,12 @@
 
 Welcome to the **Online Food Ordering System**! This project is a full-featured web-based application designed to simplify the food ordering process for users and efficiently manage orders for the admin.
 
+https://github.com/user-attachments/assets/36a66724-4896-43ac-b76e-423be4c3519f
+
+
+
+
+
 ## <h2> 📋 Table of Contents</h2>
 - [Introduction](#introduction)
 - [Features](#features)
