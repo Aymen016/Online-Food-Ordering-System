@@ -88,6 +88,7 @@ The **Online Food Ordering System** is designed to provide an easy and seamless 
 - **Order Notifications:** Implement real-time notifications for order updates.
 - **Ratings and Reviews:** Allow users to rate and review dishes.
 
+---
 ## <h2>  🤝 Contributing</h2>
 
 We welcome contributions to the **Online Food Ordering System**! If you find any bugs or have suggestions for new features, please feel free to open an issue or submit a pull request.
@@ -103,3 +104,14 @@ We welcome contributions to the **Online Food Ordering System**! If you find any
       git commit -m "Added new feature"
       git push origin feature-branch
 5. **Submit a pull request** to the original repository.
+
+---
+
+## 👨‍💻 About the Author
+
+**Aymen Baig**  
+A passionate developer and aspiring Data Scientist specializing in Machine Learning and Natural Language Processing. Experienced in building lightweight and efficient chatbot systems for small businesses. Always open to collaborations and learning new technologies.
+
+- **GitHub**: [Aymen Baig](https://github.com/Aymen016/)
+- **LinkedIn**: [Aymen Baig](https://www.linkedin.com/in/aymen-baig-700a06284/)
+
